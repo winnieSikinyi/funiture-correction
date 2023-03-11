@@ -1,0 +1,162 @@
+.body{
+}
+.Major{
+background-color: #f8f8f8;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.Min{
+    display: flex;
+
+}
+#prod{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: #f8f8f8;
+}
+.Aeschair{
+    margin-left: 20%;
+    position: relative;
+   
+}
+
+#imageA{
+    width: 100%;
+    height: 400px;
+
+}
+#ton1{
+position: absolute;
+right: 10%;
+top: 10%;
+padding: 8px 10px;
+background-color: black;
+color: aliceblue;
+
+}
+#ton2{
+    position: absolute;
+    right: 20%;
+    bottom: 40%;
+    padding: 8px 10px;
+background-color: black;
+color: aliceblue;
+
+}
+#ton3{
+    position: absolute;
+    bottom: 60%;
+    right: 60%;
+    padding: 8px 10px;
+    background-color:black ;
+    color: aliceblue;
+}
+.Ducts{ 
+    text-align: center;
+  
+    padding: 10% 20%;
+}
+#bed{
+    margin-left: 8%;
+}
+#sofa{
+    margin-left: 10%;
+}
+#round{
+    margin-left: 4%;
+}
+.new{
+    display: flex;
+}
+.confrenc{
+    
+    display: flex;
+}
+.sea{
+    position: relative;
+ width: 40%;
+ height: 600px;
+}
+.seat{
+    position: relative;
+    width: 48%;
+    height: 600px;
+    margin-left: 40px;
+}
+#ject{
+    position: absolute;
+    bottom:-500px;
+}
+#llection{
+position: absolute;
+bottom: -300px;
+left: 80%;
+}
+.ten{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+#end{
+    margin-left: 32%;
+    border-radius: 20px;
+}
+.mfort{
+    display: flex;
+    position: relative;
+}
+#production{
+position: absolute;
+bottom: 280px;
+left: 30px;
+}
+#partner{
+position: absolute;
+bottom: 900px;
+left: 1000px;
+
+}
+.Our{
+    position: absolute;
+    left: 60%;
+    bottom: -280%;
+}
+.Magazine{
+    display: flex;
+
+}
+.Ukraine{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+#A{
+    margin-left: 6%;
+}
+#a{
+    margin-left: 10%;
+}
+#b{
+    margin-left: 10%;
+}
+#c{
+    margin-left: 10%;
+}
+.right{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+#copyr{
+margin-left: 2px;
+}
+#term{
+margin-left: 10%;
+}
+#pry{
+margin-left: 6%;
+}
